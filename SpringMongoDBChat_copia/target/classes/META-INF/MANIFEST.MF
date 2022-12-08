@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: carlo
+Build-Jdk: 17.0.3
+Implementation-Title: SpringMongoDBChat
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: smdbchat
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/demo
+Created-By: Maven Integration for Eclipse
+
